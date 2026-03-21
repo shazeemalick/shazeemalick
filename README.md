@@ -69,7 +69,7 @@ I'm a versatile software developer with a passion for building meaningful digita
 <p>
   <a href="https://github.com/shazeemalick"><img src="https://img.shields.io/badge/GitHub-shazeemalick-181717?style=flat&logo=github" /></a>
   &nbsp;
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shazeemalik07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
