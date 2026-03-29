@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Shazeem Alick 👋</h1>
+<h1 align="center">Hey there, I'm Shazee Malick 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer &nbsp;·&nbsp; Web3 & Blockchain Engineer &nbsp;·&nbsp; Mobile Developer &nbsp;·&nbsp; AI Enthusiast</b>
